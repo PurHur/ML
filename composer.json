@@ -111,7 +111,7 @@
     "prefer-stable": true,
     "repositories": [
         {
-            "url": "https://github.com/PurHur/RubixMLLogger",
+            "url": "https://github.com/PurHur/logger",
             "type": "git"
         }
     ]
